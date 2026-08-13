@@ -1,0 +1,18 @@
+{
+  "projectName": "smart_logistics",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "bun",
+  "includeExamples": false,
+  "tailwind": true,
+  "projectPreset": "default",
+  "addOnOptions": {},
+  "git": false,
+  "install": true,
+  "intent": true,
+  "routerOnly": true,
+  "version": 1,
+  "addOns": true,
+  "framework": "react",
+  "chosenAddOns": ["eslint", "tanstack-query"]
+}
